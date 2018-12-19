@@ -45,6 +45,10 @@ Modern I/O library. Multiplatform in progress.
 (Deprecated-ish. See SQLiter) SQLite access library with Android-like structure and interface. Pair with
 SqlDelight for shared mobile sql [See Droidcon app](https://github.com/touchlab/DroidconKotlin/)
 
+### [better-parse](https://github.com/h0tk3y/better-parse)
+
+A parser combinator library for Kotlin JVM, JS, and Multiplatform projects
+
 ## Videos - KotlinConf
 
 **Multiplatform and Native specific**
